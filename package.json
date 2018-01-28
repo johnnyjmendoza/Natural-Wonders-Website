@@ -1,0 +1,31 @@
+{
+    "title": "Natural Wonders",
+    "name": "startbootstrap-1-col-portfolio",
+    "version": "4.0.0",
+    "description": "One column portfolio HTML template built with Bootstrap",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://johnnymendoza.com/1-col-portfolio",
+    "feedback": {
+        "email": "johnnymendoza@gmail.com"
+    },
+    "license": "GNU",
+    "author": "Natural Wonders",
+    "contributors": [
+        "Johnny Mendoza (http://wwww.johnnymendoza.com)"
+    ],
+    "dependencies": {
+        "bootstrap": "4.0.0",
+        "jquery": "3.3.0"
+    },
+    "devDependencies": {
+        "browser-sync": "2.23.5",
+        "gulp": "^3.9.1"
+    }
+}

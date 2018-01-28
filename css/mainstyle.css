@@ -1,0 +1,19 @@
+/*!
+ * Natural Wonders Website
+ * Copyright 2017 Johnny Mendoza - JohnnyMendoza@gmail.com
+ * Licensed under GNU General Public License
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.pagination {
+  margin-bottom: 15px;
+}
